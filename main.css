@@ -1,0 +1,11 @@
+body,html{
+    margin:0px;
+}
+#canvas{
+    display:block;
+}
+#Radius{
+    position: absolute;
+    top:600px;
+    left:100px;
+}
